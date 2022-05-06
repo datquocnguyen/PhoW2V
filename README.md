@@ -1,6 +1,6 @@
 # PhoW2V: Pre-trained Word2Vec syllable and word embeddings for Vietnamese
 
-PhoW2V provides collections of pre-trained Word2Vec syllable- and word-level embeddings for Vietnamese, that were pre-trained on a corpus of 20GB Vietnamese texts and used for our EMNLP-2020 Findings work ["A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese"](https://www.aclweb.org/anthology/2020.findings-emnlp.364/): 
+PhoW2V provides collections of pre-trained Word2Vec syllable- and word-level embeddings for Vietnamese, that were pre-trained on a 20GB corpus of Vietnamese texts and used for our EMNLP-2020 Findings work ["A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese"](https://www.aclweb.org/anthology/2020.findings-emnlp.364/): 
 
 	@inproceedings{phow2v_vitext2sql,
 	    title     	= {{A Pilot Study of Text-to-SQL Semantic Parsing for Vietnamese}},
@@ -24,7 +24,11 @@ By downloading the PhoW2V embeddings, USER agrees:
 - to **not** distribute PhoW2V or part of PhoW2V in any original or modified form.
 - and to cite our EMNLP-2020 Findings paper above when PhoW2V is employed to help produce published results.
 
-#### Copyright (c) 2020
+
+#### Note
+- Users should perform Vietnamese tone normalization on downstream tasks' data as this pre-process was also applied to the 20GB pre-training corpus of Vietnamese texts. A Python script for Vietnamese tone normalization is available at [HERE](https://github.com/VinAIResearch/BARTpho/blob/main/VietnameseToneNormalization.md).
+
+### Copyright (c) 2020
 
 	THE DATA IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 	IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
