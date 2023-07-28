@@ -10,19 +10,19 @@ PhoW2V provides collections of pre-trained Word2Vec syllable- and word-level emb
 	    pages       = {4079--4085}
 	}  
 
-|Pre-trained embeddings| Syllable/Word | Embedding size |
-|--|--|--|
-| [PhoW2V_syllables_100dims](https://public.vinai.io/word2vec_vi_syllables_100dims.zip) | Syllable-level | 100 | 
-| [PhoW2V_syllables_300dims](https://public.vinai.io/word2vec_vi_syllables_300dims.zip) | Syllable-level | 300 | 
-| [PhoW2V_words_100dims](https://public.vinai.io/word2vec_vi_words_100dims.zip) | Word-level | 100 | 
-| [PhoW2V_words_300dims](https://public.vinai.io/word2vec_vi_words_300dims.zip) | Word-level | 300 | 
+|Pre-trained embeddings| Syllable/Word | Embedding size | Download mirror |
+|--|--|--|--|
+| [PhoW2V_syllables_100dims](https://public.vinai.io/word2vec_vi_syllables_100dims.zip) | Syllable-level | 100 | [Mirror](https://drive.google.com/drive/folders/1NZhZFYbcwKzLpvvGdJUdPbwEVdVW4E3j?usp=drive_link) |
+| [PhoW2V_syllables_300dims](https://public.vinai.io/word2vec_vi_syllables_300dims.zip) | Syllable-level | 300 | [Mirror](https://drive.google.com/drive/folders/1NZhZFYbcwKzLpvvGdJUdPbwEVdVW4E3j?usp=drive_link) |
+| [PhoW2V_words_100dims](https://public.vinai.io/word2vec_vi_words_100dims.zip) | Word-level | 100 | [Mirror](https://drive.google.com/drive/folders/1NZhZFYbcwKzLpvvGdJUdPbwEVdVW4E3j?usp=drive_link) |
+| [PhoW2V_words_300dims](https://public.vinai.io/word2vec_vi_words_300dims.zip) | Word-level | 300 | [Mirror](https://drive.google.com/drive/folders/1NZhZFYbcwKzLpvvGdJUdPbwEVdVW4E3j?usp=drive_link) |
 
 
 By downloading the PhoW2V embeddings, USER agrees:
 
-- to use PhoW2V for research or educational purposes only.
-- to **not** distribute PhoW2V or part of PhoW2V in any original or modified form.
-- and to cite our EMNLP-2020 Findings paper above when PhoW2V is employed to help produce published results.
+- To use PhoW2V for research or educational purposes only.
+- Not to distribute PhoW2V or part of PhoW2V in any original or modified form.
+- To cite our EMNLP-2020 Findings paper above when PhoW2V is employed to help produce published results.
 
 
 #### Note
